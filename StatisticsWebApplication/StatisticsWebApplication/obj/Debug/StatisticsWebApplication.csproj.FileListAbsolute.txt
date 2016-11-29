@@ -1,0 +1,11 @@
+c:\users\serdar\documents\visual studio 2013\Projects\StatisticsWebApplication\StatisticsWebApplication\bin\StatisticsWebApplication.dll.config
+c:\users\serdar\documents\visual studio 2013\Projects\StatisticsWebApplication\StatisticsWebApplication\bin\StatisticsWebApplication.dll
+c:\users\serdar\documents\visual studio 2013\Projects\StatisticsWebApplication\StatisticsWebApplication\bin\StatisticsWebApplication.pdb
+c:\users\serdar\documents\visual studio 2013\Projects\StatisticsWebApplication\StatisticsWebApplication\obj\Debug\StatisticsWebApplication.dll
+c:\users\serdar\documents\visual studio 2013\Projects\StatisticsWebApplication\StatisticsWebApplication\obj\Debug\StatisticsWebApplication.pdb
+C:\Users\Andrew\Desktop\StatisticsWebApplication\StatisticsWebApplication\bin\StatisticsWebApplication.dll.config
+C:\Users\Andrew\Desktop\StatisticsWebApplication\StatisticsWebApplication\bin\StatisticsWebApplication.dll
+C:\Users\Andrew\Desktop\StatisticsWebApplication\StatisticsWebApplication\bin\StatisticsWebApplication.pdb
+C:\Users\Andrew\Desktop\StatisticsWebApplication\StatisticsWebApplication\obj\Debug\StatisticsWebApplication.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\Desktop\StatisticsWebApplication\StatisticsWebApplication\obj\Debug\StatisticsWebApplication.dll
+C:\Users\Andrew\Desktop\StatisticsWebApplication\StatisticsWebApplication\obj\Debug\StatisticsWebApplication.pdb

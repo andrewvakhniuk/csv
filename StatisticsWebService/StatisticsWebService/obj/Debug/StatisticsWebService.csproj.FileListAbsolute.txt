@@ -1,0 +1,5 @@
+C:\Users\Serdar\documents\visual studio 2013\Projects\StatisticsWebService\StatisticsWebService\bin\StatisticsWebService.dll.config
+C:\Users\Serdar\documents\visual studio 2013\Projects\StatisticsWebService\StatisticsWebService\bin\StatisticsWebService.dll
+C:\Users\Serdar\documents\visual studio 2013\Projects\StatisticsWebService\StatisticsWebService\bin\StatisticsWebService.pdb
+C:\Users\Serdar\documents\visual studio 2013\Projects\StatisticsWebService\StatisticsWebService\obj\Debug\StatisticsWebService.dll
+C:\Users\Serdar\documents\visual studio 2013\Projects\StatisticsWebService\StatisticsWebService\obj\Debug\StatisticsWebService.pdb
